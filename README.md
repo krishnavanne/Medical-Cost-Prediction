@@ -5,3 +5,4 @@ Machine Learning project to predict medical costs using regression models and de
 <img width="699" height="493" alt="image" src="https://github.com/user-attachments/assets/6b8e5e9a-824a-4c4e-bfbe-01e2ea09caf9" />
 <img width="699" height="486" alt="image" src="https://github.com/user-attachments/assets/933db16e-c340-471d-b179-fd1ed9d7b57f" />
 <img width="807" height="569" alt="image" src="https://github.com/user-attachments/assets/89b3f2a8-e178-491b-950e-24d979e189df" />
+<img width="704" height="567" alt="image" src="https://github.com/user-attachments/assets/564e4324-47a1-4254-8943-499a9eec1f81" />
